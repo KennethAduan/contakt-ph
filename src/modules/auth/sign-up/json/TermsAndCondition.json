@@ -1,0 +1,33 @@
+{
+  "title": "Privacy Policy",
+  "company": "Hekaber Digital Services",
+  "sections": [
+    {
+      "id": "introduction",
+      "title": "Introduction",
+      "content": "Welcome to Hekaber Digital Services, where business cards are made with technology. Our Privacy Policy explains how we collect, disclose and protect information that applies to our service and your choices about the collection and use of information as we adhere to the Data Privacy Act of 2012 and other governing rules and regulations imposed by the National Privacy Commission. This policy applies to all users of the service, including, but not limited to users of our portal."
+    },
+    {
+      "id": "information-collection",
+      "title": "The Information We Collect",
+      "content": "The primary purpose of processing the foregoing personal data is to enable Hekaber Digital Services to process the initial registration of your account and enable its continued use for your consumption. Take note that only personal information with client input is recorded by the platform and our software and the company does not retain nor process inbound and outbound data not manually registered by the client.\n\nYou may provide basic information or opt to disregard the created options in the platform. The collection of data shall be dependent on your input on our platform and your access to our software application.\n\nThe platform may make third party social media features provided that you have integrated your social media links in the options. Thus, we cannot ensure the security of any information you choose to make available to the public. Additionally, we cannot ensure the security unto the parties who have access to such publicly available information. Hence, the availability of your public information shall be solely dependent on what you share and who you share your information with and Hekaber Digital Services shall not be liable for your information once shared with the public."
+    },
+    {
+      "id": "data-security",
+      "title": "Our Commitment to Data Security",
+      "content": "Hekaber Digital Services is committed to ensuring that the information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in suitable physical, electronic and managerial procedures to safeguard and secure information and protect it from misuse, interference, loss and unauthorized access, modification and disclosure.\n\nHekaber Digital Services will not share and disclose personal data with any third party, except as may be reasonably necessary for the proper execution of processes related to the declared purpose, or as may be required or authorized under the law.\n\nThe security, integrity and confidentiality of your information are extremely important to us. The technical, administrative and physical security measures that are designed to protects client information from unauthorized access, disclosure, use and modification are in place for your security. We regularly review our security procedures to consider appropriate new technology and methods. We will retain your personal information for the length of time needed to fulfill the purposes mentioned in this privacy policy unless a longer retention period is required or permitted by law."
+    },
+    {
+      "id": "notifications",
+      "title": "Notifications and Amendments",
+      "content": "Hekaber Digital Services reserves the right to update or revise this privacy notice at any time and will provide a new notice whenever there are substantial changes. Previous versions of the privacy notice are retained by the company and shall be provided to the client upon request. Personal information processed through this platform may also be used by the company to communicate with the registrant for sending official communications, orders or notices."
+    },
+    {
+      "id": "consent",
+      "title": "Consent and Rights",
+      "content": "I have read about the Data Privacy Statement and General Terms and notice and express my consent thereto. In the same manner, I hereby express my consent for Hekaber Digital Services to collect, record, organize, update or modify, retrieve, consult, use, consolidate, block, erase or destruct my personal data as part of my information. I hereby affirm my right to: a) be informed; b) object to processing; c) access; d) rectify, suspend or withdraw my personal data; e) damages; and f) data portability pursuant to the provisions of the Act and its corresponding implementing Rules and Regulations."
+    }
+  ],
+  "lastUpdated": "2025",
+  "version": "1.0"
+}
